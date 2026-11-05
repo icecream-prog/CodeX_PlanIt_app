@@ -32,6 +32,11 @@ Features:
 * Private and offline: Everything saves on your own device in simple files, with no account or internet needed.
 
 
+HOW TO RUN:
+1. For Windows, extract the zip file, then go in "PlanIt(WINDOWS)", after that scroll down to find the "PlanIt.exe" file and double-click it to run.
+2. For Android, extract the zip file, then go in "PlanIt(ANDROID)", after that scroll down to find the "PlanIt.apk" file, then install and open it after installation.
+
+
 **LIMITATIONS!**
 1. Alarms ring only while the app is open, so on a phone it won’t wake a sleeping or closed app.
 2. Alarms can ring while outside the app, however, it doesn't have a notification.
