@@ -32,7 +32,7 @@ Features:
 * Private and offline: Everything saves on your own device in simple files, with no account or internet needed.
 
 
-HOW TO RUN:
+**HOW TO RUN:**
 1. For Windows, extract the zip file, then go in "PlanIt(WINDOWS)", after that scroll down to find the "PlanIt.exe" file and double-click it to run.
 2. For Android, extract the zip file, then go in "PlanIt(ANDROID)", after that scroll down to find the "PlanIt.apk" file, then install and open it after installation.
 
