@@ -1,5 +1,6 @@
 PlanIt is an app we made with the help of AI (Claude), it was designed to plan your tasks and organize your schedule. This app allows users to set timers for future dates, allows for reminders before the timer ends (Ex. 10 mins before, it will play a ringtone), and even customization of the background (Ex. mp4, png, jpeg, and other formats).
 It also allows for your tasks to be edited, marked done, duplicated to the next day, and deleted, and is used to keep track of your progress.
+This app works on Windows and Android.
 
 Features:
 
@@ -34,11 +35,10 @@ Features:
 **LIMITATIONS!**
 1. Alarms ring only while the app is open, so on a phone it won’t wake a sleeping or closed app.
 2. Alarms can ring while outside the app, however, it doesn't have a notification.
-
+3. We only tested this app in Windows and Android, we are not sure how it will work in IOS, MacBook, Linux, and other systems.
 
 
 **IMPORTANT REMINDERS!!**
-
 1. When sharing files, please remove your background or it will also be passed on. (Privacy)
 2. It is advised to get this only from the GitHub repo to ensure that it's a clean install.
 
