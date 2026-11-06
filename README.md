@@ -50,6 +50,8 @@ Features:
 
 Link: https://github.com/icecream-prog/CodeX
 
-**EDIT
+**EDIT**
+
 Google Drive for the Final App:
+
 Link: https://drive.google.com/drive/folders/1hORhEfrjWos2JQAtUnmeOeHjoLb-uP88?usp=sharing
