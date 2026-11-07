@@ -9,6 +9,7 @@ Features:
 * Snooze: Snooze from the alarm popup, and the alarm rings again when the snooze ends.
 * 10 built-in alarm sounds: Classic Beeps, Digital Clock, Siren, Police Two-Tone, Emergency Pulse, Church Bell, Chime Melody, Morning Melody, Buzzer and Sonar Ping. The app generates them itself, so there are no audio files to carry around.
 * Sound control: Pick a sound per schedule, or set a default for alarms and a separate one for reminders. Settings also has volume, how long the alarm rings (30 seconds to “until I stop it”) and snooze length.
+* Alarms/Reminders: A notification will pop up when your current task's timer is reached. Also, it will still alarm and give you a notification even when your phone screen is off.
 
 
 **Easy to read at a glance**
@@ -38,9 +39,8 @@ Features:
 
 
 **LIMITATIONS!**
-1. Alarms ring only while the app is open, so on a phone it won’t wake a sleeping or closed app.
-2. Alarms can ring while outside the app, however, it doesn't have a notification.
-3. We only tested this app in Windows and Android, we are not sure how it will work in IOS, MacBook, Linux, and other systems.
+1. The alarm can still go through closed screens, but will not wake it up. Basically, it still has sounds/notifications, but the screen won't open unless opened by the user.
+2. We only tested this app in Windows and Android, we are not sure how it will work in IOS, MacBook, Linux, and other systems.
 
 
 **IMPORTANT REMINDERS!!**
